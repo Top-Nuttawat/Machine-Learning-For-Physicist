@@ -1,1 +1,1 @@
-# Machine-Learning-For-Physicist
+# Machine Learning For Physicist
